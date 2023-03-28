@@ -15,7 +15,7 @@ function App() {
     <Router>
       <Layout className="layout">
         <Header>
-          <Title align="left" level={3} style={{color: 'grey'}}>Convin FrontEnd Assignment</Title>
+          <Title align="left" level={4} style={{color: 'white'}}>Convin FrontEnd Assignment</Title>
         </Header>
         <Content style={{ padding: '0 50px' }}>
           <Routes>

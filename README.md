@@ -1,2 +1,3 @@
 # convin
-React Frontend Assignment for Convin
+React Frontend Assignment for Convin. 
+React Frontend Assignment which uses json-server in the backend. It is deployed on render and make use of libraries antd, redux, react router etc. User can create and edit individual buckets. Each bucket can contain multiple number of cards which also supports create, edit and delete functionality. On clicking over the url in a card, a iframe opens which plays the video. A single feature which is not implemented was that of moving card from one bucket to another. Its action handlers are present in the code. History Tab on home page shows history of played videos with their respective time. 
